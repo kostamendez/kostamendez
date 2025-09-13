@@ -20,20 +20,33 @@
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+   ![Visitas al perfil](https://komarev.com/ghpvc/?username=kostamendez&label=Visitas&color=blue&style=flat)
 
 
   ### ⚙️ &nbsp;GitHub Analytics
   <br>
   <p align="center">
-  <a href="https://github.com/kostamendez">
-     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kostamendez&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kostamendez&theme=gruvbox&hide_border=true" />
-  </a>
+   <a href="https://github.com/kostamendez">
+   </a>
   </p>
+   <p align="center">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kostamendez&show_icons=true&theme=gruvbox&hide_border=true&custom_title=José%20Méndez%20GitHub%20Stats" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kostamendez&theme=gruvbox&hide_border=true" />
+   </p>
+   <p align="center">
+     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostamendez&layout=compact&theme=gruvbox&hide_border=true" />
+   </p>
+    
   </br>
 
+
 <!--
+
+    
+     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kostamendez&show_icons=true&theme=gruvbox&hide_border=true&custom_title=José%20Méndez%20GitHub%20Stats" />
+     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostamendez&layout=compact&theme=gruvbox&hide_border=true" />
+    
+
 **kostamendez/kostamendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
