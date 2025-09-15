@@ -29,7 +29,7 @@
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-   ![Visitas al perfil](https://komarev.com/ghpvc/?username=kostamendez&label=Visitas&color=blue&style=flat)
+  ![Visitas al perfil](https://komarev.com/ghpvc/?username=kostamendez&label=Visitas&color=blue&style=flat)
 
 
   ### ⚙️ &nbsp;GitHub Analytics
